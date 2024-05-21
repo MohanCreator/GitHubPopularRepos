@@ -1,0 +1,18 @@
+.normal-button {
+  color: #1e293b;
+  font-family: roboto;
+  font-weight: 500;
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  width: 100%;
+  border-radius: 10px;
+  outline: none;
+}
+
+.isActive {
+  color: #0284c7;
+  border-color: #0284c7;
+  border-style: solid;
+}
